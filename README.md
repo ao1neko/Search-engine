@@ -1,9 +1,10 @@
 # Search-engine
-simple search engine
+簡単な検索エンジン
 
 # Usage
 `./search`
 
+各種コマンドを入力  
 t: SQLテーブルが存在しない場合、作成  
 i: wikidataに追加した文章データをSQLに書き込む  
 c: SQLに保存されているデータを表示  
