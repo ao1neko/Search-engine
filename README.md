@@ -1,5 +1,5 @@
 # Search-engine
-簡単な検索エンジン
+日本語版wikipediaデータ用検索エンジン
 
 # Usage
 `./search`
